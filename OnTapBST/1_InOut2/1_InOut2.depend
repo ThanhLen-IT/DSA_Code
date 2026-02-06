@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762760544 source:d:\uit-subjects\foundational-subjects\it003-uit\ontapbst\1_inout2\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+
